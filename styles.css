@@ -9,3 +9,9 @@ span{
   font-family: 'Times New Roman', Times, serif;
   color: cadetblue;
 }
+
+h3 {
+color:cadetblue;
+font-size: medium;
+font-style: inherit;
+}
